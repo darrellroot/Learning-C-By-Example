@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+01-readme/readme
+02-integers/integer-binary
+.gitignore
+02-integers/integers01
