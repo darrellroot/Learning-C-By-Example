@@ -54,3 +54,5 @@ dkms.conf
 02-integers/integer-binary
 .gitignore
 02-integers/integers01
+01-readme/.vscode/tasks.json
+02-integers/.vscode/tasks.json
